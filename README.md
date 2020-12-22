@@ -1,7 +1,7 @@
-# LinAlgCalculator
+# LinAlgEngine
 Contains the `Matrix` and `Vector` object classes. 
 
-The current functions of my Linear Algebra Calculator include:
+The current functions of my Linear Algebra Engine include:
 -3 major row operations (Row Substitution, Row Scale, and Row Swap) 
 -Convert a Matrix to Row-Reduced Echelon Form (RREF) 
 -Find the determinant of a Matrix 
