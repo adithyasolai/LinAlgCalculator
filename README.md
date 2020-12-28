@@ -11,8 +11,9 @@ Currently, my Linear Algebra Calculator can do the following functions:
 
 (The implementation of these functions can be found in the `Matrix` class.)
 
-In the future, I plan to add the following features to this calculator: 
--Using the co-factor algorithm in finding the inverse of a Matrix -Checking for other axioms of the Invertible Matrix Theorem to optimize other functions (finding the inverse) 
+In the future, I plan to add the following features to this calculator:  
+-Using the co-factor algorithm in finding the inverse of a Matrix  
+-Checking for other axioms of the Invertible Matrix Theorem to optimize other functions (finding the inverse)  
 -Finding the Null Space and Col Space of a matrix   
 -Finding the QR Factorization of a Matrix   
 -Determining if a Matrix is diagonalizable  
